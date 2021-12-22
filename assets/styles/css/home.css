@@ -1,0 +1,89 @@
+*{
+      margin: 0;
+      padding: 0;
+      box-sizing: border-box;
+}
+html, body{
+      max-width: 100%;
+      overflow-x: hidden;
+}
+body{
+      background-repeat: no-repeat;
+      background-image: url(/assets/styles/img/CARDAPIO-1.png);
+      background-size: cover;
+      background-position: center;
+      background-attachment: fixed;
+      background: linear-gradient(180deg, #3C0C0D 0%, #BB0823 100%);
+}
+.header-div-logo{
+      margin-top: 2rem;
+}
+.logo{
+      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+      max-width: 15rem;
+}
+.header-tittle{
+      font-family: 'Montserrat', sans-serif;
+      font: montserrat;
+      font-weight: 700;
+      max-width: 400px;
+      font-size: 1.3rem;
+      text-align: center;
+      text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      color: #ffff;
+}
+.header-div-title{
+      margin-top: 1rem;
+}
+.body-banner-veg{
+      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+      max-width: 520px;
+}
+.body-div-buttons{
+      margin-top: 2rem;
+}
+.btn{
+      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+      align-self: center;
+      max-width: 40rem;
+      display: flex;
+      justify-content: center;
+      align-items: center;
+      background-color: #F9F9E3;
+      height: 3.5rem;
+      border-radius: 1.3rem;
+      -webkit-border-radius: 1.3rem;
+      -moz-border-radius: 1.3rem;
+      -ms-border-radius: 1.3rem;
+      -o-border-radius: 1.3rem;
+      -webkit-filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+}
+.btn:hover{
+      background-color: #b4b3b3;
+}
+.icon-button{
+      width: 2.5rem;
+}
+.body-tittle{
+      font-family: 'Montserrat', sans-serif;
+      font: montserrat;
+      font-weight: 700;
+      text-align: center;
+      margin-top: 0.5rem;
+      padding: 0;
+      margin-left: 1rem;
+      font-size: 20px;
+}
+.logo-geear{
+      filter: drop-shadow(0px 4px 4px rgba(0, 0, 0, 0.25));
+      width: 120px;
+}
+.footer-tittle{
+      font-family: 'Montserrat', sans-serif;
+      font: montserrat;
+      font-weight: 700;
+      text-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+      color: #ffff;
+      text-align: center;
+      font-size: 20px;
+}
