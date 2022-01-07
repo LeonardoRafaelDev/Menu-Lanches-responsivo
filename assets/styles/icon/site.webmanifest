@@ -1,6 +1,6 @@
 {
-    "name": "bicho comilao",
-    "short_name": "bicho comilao",
+    "name": "Alguma Lancheria",
+    "short_name": "Alguma Lancheria",
     "icons": [
         {
             "src": "/android-chrome-36x36.png",
@@ -31,9 +31,24 @@
             "src": "/android-chrome-192x192.png",
             "sizes": "192x192",
             "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-256x256.png",
+            "sizes": "256x256",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-384x384.png",
+            "sizes": "384x384",
+            "type": "image/png"
+        },
+        {
+            "src": "/android-chrome-512x512.png",
+            "sizes": "512x512",
+            "type": "image/png"
         }
     ],
-    "theme_color": "#ffffff",
-    "background_color": "#ffffff",
+    "theme_color": "#3c0c0d",
+    "background_color": "#3c0c0d",
     "display": "standalone"
 }
